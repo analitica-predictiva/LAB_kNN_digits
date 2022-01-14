@@ -1,1 +1,3 @@
-# LAB_k-NN_digits
+# Laboratorio
+
+Pronostico del dataset digits usando k-NN
