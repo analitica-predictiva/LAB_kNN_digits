@@ -48,6 +48,7 @@ def pregunta_02():
 
     # Divida los datos de entrenamiento y prueba. Los conjuntos de datos están
     # estratificados. La semilla del generador de números aleatorios es 42.
+    # El tamaño del test es del 20%
     X_train, X_test, y_train, y_test = ____(
         ____, ____, test_size=____, random_state=____, stratify=____
     )
